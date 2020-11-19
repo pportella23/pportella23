@@ -1,6 +1,24 @@
-### Hi there 👋
+### What's up dude? 🤙🏼
+
+I'm a Software Engineering student currently working as a front-end developer at HP Inc. 
+
+The technologies I use most in my work are JavaScript (React.js), HTML, CSS and Docker. 
+
+But I also have experience with machine learning algorithms and some models of neural networks.
+
+In love with technology, bussiness and people, I've been developing my career to work with Data Science.
+
+Always looking for personal and professional development by making new connections and sharing experiences through teamwork.
 
 <!--
+The techs that I most use in my job are React.js, HTML, CSS and Docker, but I have experiences with Machine Learning models
+As an enthusiast of data driven culture, I've been developing my career to work focused on Bussiness and Data Science.
+In love with technology and people, I'm always looking for adventures and challenges.
+"Taking my time to perfect the Bit!" 
+-->
+
+<!--
+### How to reach me 📫 
 **pportella23/pportella23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
