@@ -21,7 +21,7 @@ Always looking for personal and professional development by making new connectio
 #### GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&theme=calm)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook&theme=calm)
 
 <!--
 The techs that I most use in my job are React.js, HTML, CSS and Docker, but I have experiences with Machine Learning models
