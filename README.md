@@ -18,11 +18,17 @@ Always looking for personal and professional development by making new connectio
 </details>
 -->
 
-#### GitHub Stats ⚡
+<details><summary><b>GitHub Stats ⚡</b></summary>  
+  
+  ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook&theme=calm)
 
+</details>
+<!--
+#### GitHub Stats ⚡
 ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook&theme=calm)
-
+-->
 #### How to reach me 📫 
 
 "You wanna find me, hit me on Twitter"
