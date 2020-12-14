@@ -34,6 +34,8 @@ Always looking for personal and professional development by making new connectio
 <details><summary><b>Recent GitHub Activity ⚡</b></summary>
   
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/pportella23/BrailleConverter-backend/pull/3) in [pportella23/BrailleConverter-backend](https://github.com/pportella23/BrailleConverter-backend)
+2. 🎉 Merged PR [#2](https://github.com/pportella23/BrailleConverter-backend/pull/2) in [pportella23/BrailleConverter-backend](https://github.com/pportella23/BrailleConverter-backend)
   <!--END_SECTION:activity-->
   
  </details>
