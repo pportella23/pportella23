@@ -25,13 +25,12 @@ Always looking for personal and professional development by making new connectio
 
 ### How to reach me 📫 
 
-<details><summary><b>GitHub Stats ⚡</b></summary>  
-  
-  ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm&hide_border=true)
-  <!--
-   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-  -->
-</details>
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+<br />
 
 <details><summary><b>Recent GitHub Activity ⚡</b></summary>
   
@@ -41,8 +40,21 @@ Always looking for personal and professional development by making new connectio
   <!--END_SECTION:activity-->
   
  </details>
+ 
+
+<details><summary><b>GitHub Stats ⚡</b></summary>  
   
+  ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm&hide_border=true)
+  <!--
+   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  -->
+</details>
   
+[twitter]: https://twitter.com/pportella23
+[instagram]: https://instagram.com/pportella23
+[linkedin]: https://linkedin.com/in/pportella
+ 
+ 
 <!--
 #### GitHub Stats ⚡
 ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
