@@ -1,4 +1,4 @@
-### What's up dude? 🤙🏼
+## What's up dude? 🤙🏼
 
 I'm a Software Engineering student currently working as a front-end developer at HP Inc. 
 
@@ -17,11 +17,17 @@ Always looking for personal and professional development by making new connectio
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&theme=calm)
 </details>
 -->
+### Spotify Playing 🎧
+<!--
+[<img src="https://spotify-now-playing-ten-bice.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/i4yymuketz298imfxjy9l82dz?si=TUtihI39QkCTl-WjiWc4fg)
+-->
+[![Spotify](https://spotify-now-playing-ten-bice.vercel.app/api/spotify-playing)](https://open.spotify.com/user/i4yymuketz298imfxjy9l82dz?si=TUtihI39QkCTl-WjiWc4fg)
+
+### How to reach me 📫 
 
 <details><summary><b>GitHub Stats ⚡</b></summary>  
   
-  ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook&theme=calm)
+  ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm) 
 
 </details>
 <!--
@@ -29,9 +35,6 @@ Always looking for personal and professional development by making new connectio
 ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook&theme=calm)
 -->
-#### How to reach me 📫 
-
-"You wanna find me, hit me on Twitter"
 <!--
 The techs that I most use in my job are React.js, HTML, CSS and Docker, but I have experiences with Machine Learning models
 As an enthusiast of data driven culture, I've been developing my career to work focused on Bussiness and Data Science.
