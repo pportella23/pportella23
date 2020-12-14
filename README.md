@@ -30,6 +30,15 @@ Always looking for personal and professional development by making new connectio
   ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm) 
 
 </details>
+
+<details><summary><b>Recent GitHub Activity ⚡</b></summary>
+  
+  <!--START_SECTION:activity-->
+  <!--END_SECTION:activity-->
+  
+ </details>
+  
+  
 <!--
 #### GitHub Stats ⚡
 ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
