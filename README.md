@@ -25,9 +25,9 @@ Always looking for personal and professional development by making new connectio
 
 ### How to reach me 📫 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://svgshare.com/i/Up1.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://svgshare.com/i/UqY.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://svgshare.com/i/UqP.svg" />][instagram]
+[<img align="left" alt="Twitter" width="25px" src="https://svgshare.com/i/Up1.svg" />][twitter]
+[<img align="left" alt="LinkedIn" width="25px" src="https://svgshare.com/i/UqY.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="25px" src="https://svgshare.com/i/UqP.svg" />][instagram]
 
 <br />
 <br />
