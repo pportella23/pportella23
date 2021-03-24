@@ -29,6 +29,10 @@ Always looking for personal and professional development by making new connectio
 [<img align="left" alt="LinkedIn" width="25px" src="https://svgshare.com/i/UqY.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://svgshare.com/i/UqP.svg" />][instagram]
 
+<br></br>
+
+<samp>[My personal page](http://flowcv.me/pportella23)</samp>
+
 <br />
 <br />
 
