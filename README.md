@@ -41,6 +41,7 @@ Always looking for personal and professional development by making new connectio
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#4](https://github.com/pportella23/textbin-api/pull/4) in [pportella23/textbin-api](https://github.com/pportella23/textbin-api)
 2. 💪 Opened PR [#4](https://github.com/pportella23/textbin-api/pull/4) in [pportella23/textbin-api](https://github.com/pportella23/textbin-api)
+3. 
   <!--END_SECTION:activity-->
   
  </details>
