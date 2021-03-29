@@ -3,7 +3,7 @@
 I'm a Undergraduate Software Engineer Student at PUCRS University working as Data Scientist and Tech Lead at Zhero.
 
 
-The technologies I use most in my work are PowerBI, Python and Front-end Web Development (with React, Node.js, HTML, CSS and Docker) 
+The technologies I use most in my work are PowerBI, Python and Front-end Web Development (with React, Node.js and Docker) 
 
 
 Currently learning about Machine Learning algorithms and Deep Learning models
