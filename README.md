@@ -1,12 +1,16 @@
 ## What's up dude? 🤙🏼
 
-I'm a Software Engineering student currently working as a front-end developer at HP Inc. 
+I'm a Undergraduate Software Engineer Student at PUCRS University working as Data Scientist and Tech Lead at Zhero.
 
-The technologies I use most in my work are JavaScript (React.js), HTML, CSS and Docker. 
 
-But I also have experience with machine learning algorithms and some models of neural networks.
+The technologies I use most in my work are PowerBI, Python and Front-end Web Development (with React, Node.js, HTML, CSS and Docker) 
+
+
+Currently learning about Machine Learning algorithms and Deep Learning models
+
 
 In love with technology, bussiness and people, I've been developing my career to work with Data Science.
+
 
 Always looking for personal and professional development by making new connections and sharing experiences through teamwork.
 
