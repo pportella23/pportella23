@@ -29,11 +29,10 @@ Always looking for personal and professional development by making new connectio
 [<img align="left" alt="LinkedIn" width="25px" src="https://svgshare.com/i/UqY.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="25px" src="https://svgshare.com/i/UqP.svg" />][instagram]
 
-<br></br>
+<br />
 
 <samp>[My personal page](http://flowcv.me/pportella23)</samp>
 
-<br />
 <br />
 
 <details><summary><b>Recent GitHub Activity ⚡</b></summary>
@@ -59,7 +58,9 @@ Always looking for personal and professional development by making new connectio
 [instagram]: https://instagram.com/pportella23
 [linkedin]: https://linkedin.com/in/pportella
  
- 
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pportella23&label=Profile%20views&color=28a464&style=flat" alt="pportella23" /> </p>
+
 <!--
 #### GitHub Stats ⚡
 ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm)  
