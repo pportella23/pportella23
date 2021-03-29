@@ -53,7 +53,12 @@ Always looking for personal and professional development by making new connectio
 
 <details><summary><b>GitHub Stats ⚡</b></summary>  
   
-  ![](https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm&hide_border=true)
+  <a href="https://github.com/pportella23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=pportella23&show_icons=true&count_private=true&hide=stars&theme=calm&hide_border=true" />
+  </a>
+  <a href="https://github.com/pportella23">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pportella23&theme=calm&layout=compact&hide_border=true" />
+  </a>
   <!--
    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
   -->
