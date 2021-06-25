@@ -43,9 +43,9 @@ Always looking for personal and professional development by making new connectio
 <details><summary><b>Recent GitHub Activity ⚡</b></summary>
   
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/pportella23/textbin-api/pull/6) in [pportella23/textbin-api](https://github.com/pportella23/textbin-api)
-2. 🎉 Merged PR [#1](https://github.com/pportella23/teste/pull/1) in [pportella23/teste](https://github.com/pportella23/teste)
-3. 💪 Opened PR [#1](https://github.com/pportella23/teste/pull/1) in [pportella23/teste](https://github.com/pportella23/teste)
+1. 🎉 Merged PR [#7](https://github.com/pportella23/textbin-api/pull/7) in [pportella23/textbin-api](https://github.com/pportella23/textbin-api)
+2. 🎉 Merged PR [#6](https://github.com/pportella23/textbin-api/pull/6) in [pportella23/textbin-api](https://github.com/pportella23/textbin-api)
+3. 🎉 Merged PR [#1](https://github.com/pportella23/teste/pull/1) in [pportella23/teste](https://github.com/pportella23/teste)
   <!--END_SECTION:activity-->
   
  </details>
